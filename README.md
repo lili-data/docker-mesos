@@ -14,7 +14,7 @@ Please note requires a custom command to run the master or the slave.
 
 If you want to add something else to the image after you can build with
 
-    docker build liligo/mesos:TAG .
+    docker build lilidata/mesos:TAG .
 
 ## Networking
 
