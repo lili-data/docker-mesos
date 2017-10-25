@@ -28,4 +28,8 @@ Configuration reference: http://mesos.apache.org/documentation/latest/configurat
 
 ## How to run
 
-Use-cases can differ but you can check how we use it under [liligo/dataplatform](https://hub.docker.com/r/lilidata/dataplatform/)
+Use-cases can differ but you can check how we use it [lilidata/dataplatform](https://hub.docker.com/r/lilidata/dataplatform/)
+
+# License
+
+Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
