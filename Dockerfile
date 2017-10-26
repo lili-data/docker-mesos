@@ -44,7 +44,7 @@ RUN conda install \
         pyzmq \
         && conda clean -yt
 
-ENV HADOOP_VERSION 2.7.2
+ENV HADOOP_VERSION 2.7.4
 RUN \
       curl -s http://www.eu.apache.org/dist/hadoop/common/hadoop-${HADOOP_VERSION}/hadoop-${HADOOP_VERSION}.tar.gz  | tar -xz -C /usr/local/ && \
       ln -s /usr/local/hadoop-${HADOOP_VERSION} /usr/local/hadoop && \
